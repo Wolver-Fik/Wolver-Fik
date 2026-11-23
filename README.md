@@ -10,3 +10,5 @@ I build minimalist, privacy-first, and **100% offline-ready Progressive Web Apps
 | **ClearWallet** | Personal Finance & Budgets | Bento analytics, smart brand icons, recurring bills, 150+ currencies, JSON/CSV | [Open App](https://wolver-fik.github.io/ClearWallet) |
 | **AutoCare** | Vehicle & Fuel Management | Predictive service alerts, fuel economy gauge, AI car cutout & CAD HUD view | [Open App](https://wolver-fik.github.io/AutoCare) |
 | **GameVault** | Video Game Library & Backlog | Multi-source metadata scraper, genre & console recommender, My Consoles tracker, 8 languages | [Open App](https://wolver-fik.github.io/GameVault) |
+| **SleepTrack** | Sleep & Rest Analytics | Bedtime/wake logs, sleep debt & regularity metrics, pattern detection, 8 languages | [Open App](https://wolver-fik.github.io/SleepTrack) |
+
