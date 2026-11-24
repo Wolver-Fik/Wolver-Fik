@@ -20,4 +20,4 @@ I build minimalist, privacy-first, and **100% offline-ready Progressive Web Apps
 * **Licensing:** All projects are licensed under the **PolyForm Noncommercial License 1.0.0** (free for personal and educational use; commercial use or resale requires explicit permission).
 
 ### 🤝 Collaboration
-* **Open to custom PWA development, project licensing, or acquisition inquiries.**
+* Open to custom PWA development, project licensing, or acquisition inquiries.
