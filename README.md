@@ -1,6 +1,7 @@
 # Hi, I'm Wolver-Fik 👋
 
 I build minimalist, privacy-first, and **100% offline-ready Progressive Web Apps (PWAs)** designed for global daily use — zero servers, zero accounts, full data sovereignty.
+> 🌐 **Explore the full interactive ecosystem:** [**Launch Wolver-Fik Suite Portal →**](https://wolver-fik.github.io/)
 
 ### 🚀 Featured Apps
 
