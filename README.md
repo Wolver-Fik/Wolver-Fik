@@ -8,7 +8,7 @@ I build minimalist, privacy-first, and **100% offline-ready Progressive Web Apps
 - 💾 **Full Data Portability:** One-click local backup export and restore (**JSON / CSV**) with zero cloud lock-in.
 - 📴 **100% Offline-First:** Installable on iOS, Android, and desktop with Service Worker caching.
 
-### 🚀 Featured Apps
+### 🚀 Featured Apps (`v1.5`)
 
 | App | Purpose | Key Features | Live Demo |
 | :--- | :--- | :--- | :--- |
