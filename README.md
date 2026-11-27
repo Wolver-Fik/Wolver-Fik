@@ -12,12 +12,12 @@ I build minimalist, privacy-first, and **100% offline-ready Progressive Web Apps
 
 | App | Purpose | Key Features | Live Demo |
 | :--- | :--- | :--- | :--- |
-| [**PulseFit**](https://github.com/wolver-fik/PulseFit) | Health & Fitness | Dynamic routines, dual strength/cardio weekly planner, activity calendar, body measurements & period comparison | [Launch](https://wolver-fik.github.io/PulseFit) |
-| [**ClearWallet**](https://github.com/wolver-fik/ClearWallet) | Personal Finance | Multi-currency (+150), offline rates, end-of-month balance projection, recurring bills & debts tracker | [Launch](https://wolver-fik.github.io/ClearWallet) |
-| [**AutoCare**](https://github.com/wolver-fik/AutoCare) | Vehicle Management | Multi-vehicle garage, cost per km/mi, predictive service alerts, fuel logs & client-side AI cutout | [Launch](https://wolver-fik.github.io/AutoCare) |
-| [**GameVault**](https://github.com/wolver-fik/GameVault) | Gaming & Media | Multi-source scraper, achievements & Platinum sync, play sessions, custom collections & yearly summary | [Launch](https://wolver-fik.github.io/GameVault) |
-| [**SleepTrack**](https://github.com/wolver-fik/SleepTrack) | Sleep & Wellness | Sleep debt & regularity, habit correlations, visual sleep calendar, wake notes & yearly trends | [Launch](https://wolver-fik.github.io/SleepTrack) |
-| [**StudyFlow**](https://github.com/wolver-fik/StudyFlow) | Academic Planner | Offline university curriculum importer, Pomodoro timer, spaced-repetition flashcards & exam readiness | [Launch](https://wolver-fik.github.io/StudyFlow/) |
+| [**PulseFit**](https://github.com/wolver-fik/PulseFit) | Health & Fitness | Dynamic routines, dual strength/cardio planner, alternative sports, per-exercise PR history & savable templates | [Launch](https://wolver-fik.github.io/PulseFit) |
+| [**ClearWallet**](https://github.com/wolver-fik/ClearWallet) | Personal Finance | Multi-account wallets, neutral transfers, +150 currencies, offline rates, balance projection & debts tracker | [Launch](https://wolver-fik.github.io/ClearWallet) |
+| [**AutoCare**](https://github.com/wolver-fik/AutoCare) | Vehicle Management | Multi-vehicle garage, cost per km/mi, tire wear/rotation tracker, valuation/depreciation & client-side AI cutout | [Launch](https://wolver-fik.github.io/AutoCare) |
+| [**GameVault**](https://github.com/wolver-fik/GameVault) | Gaming & Media | Multi-source scraper, achievements & Platinum sync, DLC tracker, investment/cost-per-hour & yearly summary | [Launch](https://wolver-fik.github.io/GameVault) |
+| [**SleepTrack**](https://github.com/wolver-fik/SleepTrack) | Sleep & Wellness | Sleep debt & regularity, morning energy (1–5), caffeine/screen time correlations, visual calendar & yearly trends | [Launch](https://wolver-fik.github.io/SleepTrack) |
+| [**StudyFlow**](https://github.com/wolver-fik/StudyFlow) | Academic Planner | Offline curriculum importer, Pomodoro timer, spaced-repetition flashcards, timed mock exams & unit mastery | [Launch](https://wolver-fik.github.io/StudyFlow/) |
 
 ### 🛠️ Core Architecture & Standards
 * **100% Offline-First & Local Storage:** Full functionality without internet access, with portable **JSON & CSV** backups.
